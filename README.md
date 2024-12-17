@@ -107,8 +107,9 @@ If you prefer a faster setup, you can use a preconfigured Virtual Machine:
 
 
 - Download and install [VirtualBox](https://www.virtualbox.org/wiki/Downloads).
-- Download the Arctos preconfigured VM image from this [Google Drive link](https://drive.google.com/drive/folders/1R-wapvf-ZU6bWU-n6ExmzQ6M_z44bq0r?usp=sharing
-).
+- Download the Arctos preconfigured VM image from this [Google Drive link](https://drive.google.com/file/d/1cVKMfZAvwdyCzfT6W0BRXgDmTI7lBqS5/view?usp=sharing).
+
+
 - Open VirtualBox and create a new machine (Ctrl+N).
 - Name the machine and set the type to Linux (Debian 64-bit).
 - Use iso image zz-disk001.iso
