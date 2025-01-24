@@ -107,7 +107,7 @@ If you prefer a faster setup, you can use a preconfigured Virtual Machine:
 
 
 - Download and install [VirtualBox](https://www.virtualbox.org/wiki/Downloads).
-- Download the Arctos preconfigured VM image from this [Google Drive link](https://drive.google.com/file/d/1cVKMfZAvwdyCzfT6W0BRXgDmTI7lBqS5/view?usp=sharing).
+- Download the Arctos preconfigured VM image from this [Google Drive link](https://drive.google.com/file/d/1ZKmfxiIbEWSBvssMyU7dudEf_ZrNQkfH/view?usp=sharing).
 
 
 - Open VirtualBox and create a new machine (Ctrl+N).
