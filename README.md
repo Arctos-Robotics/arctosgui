@@ -110,13 +110,10 @@ If you prefer a faster setup, you can use a preconfigured Virtual Machine:
 - Download the Arctos preconfigured VM image from this [Google Drive link](https://drive.google.com/file/d/1ZKmfxiIbEWSBvssMyU7dudEf_ZrNQkfH/view?usp=sharing).
 
 
-- Open VirtualBox and create a new machine (Ctrl+N).
-- Name the machine and set the type to Linux (Debian 64-bit).
-- Use iso image zz-disk001.iso
-- Set at least 4 GB of RAM.
-- Use the existing virtual hard disk file (zz-disk002.vmdk).
-- Start the machine and log in with the password: zz.
-- In the left toolbar, launch Arctos GUI, connect the robot via Arduino or CANable, and start using the interface.
+- In top ribbon click File > Import appliance 
+- Use file zz2.ova downloaded from the google drive link 
+- Wait till the machine is loaded
+- Start the machine 
 
 # Gear Ratios
 Set the gear ratios in convert.py and roscan.py as needed for your robot:
